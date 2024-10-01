@@ -1,1 +1,1 @@
-# lawyer_template
+# lawyer-responsive

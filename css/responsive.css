@@ -1,0 +1,478 @@
+@media (min-width: 279px) and (max-width : 319px){
+	.header .navbar-nav .nav-item .nav-link{
+		margin: 0px;
+		font-size: 10px;
+    	padding: 2px 0px 0px;
+	}
+	.slider{
+		width: 100%;
+	}
+	.slider h1{
+		font-size: 22px;
+		margin: 10% 0% 0%;
+	}
+	.slider .slider-arrow{
+		margin: 20px 0px 18px;
+	}
+	.about{
+		padding: 25px 0px;
+	}
+	.about .title h3{
+	    font-size: 18px;
+	    margin: 5px 0px;
+	}
+	.about .about-text{
+		padding: 0px;
+		width: 100%;
+	}
+	.about .about-text p{
+	    font-size: 11px;
+	}
+	.about .about-img img{
+		width: 100%;
+	}
+	.feature{
+		padding: 25px 0px;
+	}
+	.feature .title{
+		padding: 0px 0px 10px;
+	}
+	.feature .title h3{
+	    font-size: 18px;
+	    margin: 5px 0px;
+	}
+	.feature .card{
+		margin: 8px 0px 0px;
+	}
+	.attorney{
+		padding: 25px 0px;
+	}
+	.attorney .title{
+		padding: 15px 0px 0px;
+	}
+	.attorney .title h3{
+	    font-size: 18px;
+	    margin: 5px 0px;
+	}
+	.attorney p{
+		font-size: 11px;
+		margin: 10px 0px 5px;
+	}
+	.attorney .custom-link{
+		font-size: 11px;
+	}
+	.attorney .card{
+		margin: 10px 0px 0px;
+	}
+	.language{
+		padding: 25px 0px;
+	}
+	.language .title{
+		padding: 0px 0px 8px;
+	}
+	.language .title h3{
+		font-size: 18px;
+	    margin: 5px 0px;
+	}
+	.language .inner-language h4{
+		text-align: center;
+		font-size: 14px;
+	}
+	.language .inner-language p{
+		width: 100%;
+		font-size: 11px;
+	}
+	.language .inner-language .custom-link{
+		font-size: 11px;
+	}
+	.contact{
+		padding: 25px 0px;
+	}
+	.contact .title{
+		padding: 0px 0px 10px;
+	}
+	.contact .title h3{
+		font-size: 18px;
+	    margin: 5px 0px;
+	}
+	.contact .inner-contact .contact-form .btn{
+		font-size: 11px;
+	    padding: 3px 18px;
+	    margin: 0px;
+	}
+	.footer{
+		text-align: center;
+	    padding: 20px 0px 0px;
+	}
+	.footer .icons{
+		text-align: center;	
+	}
+	.footer .icons ul{
+		padding: 0px;	
+	}
+	.footer .icons li a{	
+	    width: 20px;
+	}
+	.footer .icons li a i{
+		font-size: 14px;
+	}
+	.footer p{
+		font-size: 11px;
+	}
+}
+
+@media (min-width: 320px) and (max-width: 480px){
+	.header .navbar-nav .nav-item .nav-link{
+		margin: 0px;
+		font-size: 12px;
+    	padding: 5px 0px 0px;
+	}
+	.slider{
+		width: 100%;
+	}
+	.slider h1{
+		font-size: 35px;
+		margin: 15% 0% 0%;
+	}
+	.slider .slider-arrow{
+		margin: 35px 0px 30px;
+	}
+	.about{
+		padding: 40px 0px;
+	}
+	.about .title h3{
+	    font-size: 20px;
+	    margin: 8px 0px;
+	}
+	.about .about-text{
+		padding: 5px 0px;
+		width: 100%;
+	}
+	.about .about-text p{
+	    font-size: 12px;
+	}
+	.about .about-img img{
+		width: 100%;
+	}
+	.feature{
+		padding: 40px 0px;
+	}
+	.feature .title{
+		padding: 0px 0px 20px;
+	}
+	.feature .title h3{
+	    font-size: 20px;
+	    margin: 8px 0px;
+	}
+	.feature .card{
+		margin: 10px 0px 0px;
+	}
+	.attorney{
+		padding: 40px 0px;
+	}
+	.attorney .title{
+		padding: 20px 0px 0px;
+	}
+	.attorney .title h3{
+	    font-size: 20px;
+	    margin: 8px 0px;
+	}
+	.attorney p{
+		font-size: 12px;
+		margin: 15px 0px 10px;
+	}
+	.attorney .custom-link{
+		font-size: 12px;
+	}
+	.attorney .card{
+		margin: 10px 0px 0px;
+	}
+	.language{
+		padding: 40px 0px;
+	}
+	.language .title{
+		padding: 0px 0px 15px
+	}
+	.language .title h3{
+		font-size: 20px;
+	    margin: 8px 0px;
+	}
+	.language .inner-language h4{
+		text-align: center;
+		font-size: 16px;
+	}
+	.language .inner-language p{
+		width: 100%;
+		font-size: 12px;
+	}
+	.language .inner-language .custom-link{
+		font-size: 12px;
+	}
+	.contact{
+		padding: 40px 0px;
+	}
+	.contact .title{
+		padding: 0px 0px 15px
+	}
+	.contact .title h3{
+		font-size: 20px;
+	    margin: 8px 0px;
+	}
+	.contact .inner-contact .contact-form .btn{
+		font-size: 12px;
+	    padding: 5px 30px;
+	    margin: 0px;
+	}
+	.footer{
+		text-align: center;
+	    padding: 30px 0px 10px;
+	}
+	.footer .icons{
+		text-align: center;	
+	}
+	.footer .icons ul{
+		padding: 0px;	
+	}
+	.footer .icons li a{	
+	    width: 25px;
+	}
+	.footer .icons li a i{
+		font-size: 14px;
+	}
+	.footer p{
+		font-size: 12px;
+	}
+}
+
+@media (min-width: 481px) and (max-width: 767px){
+	.header .navbar-nav .nav-item .nav-link{
+		margin: 0px;
+		font-size: 14px;
+    	padding: 7px 0px 0px;
+	}
+	.slider{
+		width: 100%;
+	}
+	.slider h1{
+		font-size: 40px;
+		margin: 20% 0% 0%;
+	}
+	.slider .slider-arrow{
+		margin: 40px 0px 35px;
+	}
+	.about{
+		padding: 50px 0px;
+	}
+	.about .title h3{
+	    font-size: 25px;
+	    margin: 10px 0px;
+	}
+	.about .about-text{
+		padding: 7px 0px;
+		width: 100%;
+	}
+	.about .about-text p{
+	    font-size: 14px;
+	}
+	.about .about-img img{
+		width: 100%;
+	}
+	.feature{
+		padding: 50px 0px;
+	}
+	.feature .title{
+	    padding: 0px 0px 35px;
+	}
+	.feature .title h3{
+	    font-size: 25px;
+	    margin: 10px 0px;
+	}
+	.feature .card{
+		margin: 15px 0px 0px;
+	}
+	.attorney{
+		padding: 50px 0px;
+	}
+	.attorney .title{
+		padding: 30px 0px 0px;
+	}
+	.attorney .title h3{
+	    font-size: 25px;
+	    margin: 10px 0px;
+	}
+	.attorney p{
+		font-size: 14px;
+		margin: 15px 0px 15px;
+	}
+	.attorney .custom-link{
+		font-size: 14px;
+	}
+	.attorney .card{
+		margin: 15px 0px 0px;
+	}
+	.language{
+		padding: 50px 0px;
+	}
+	.language .title{
+		padding: 0px 0px 35px
+	}
+	.language .title h3{
+		font-size: 25px;
+	    margin: 10px 0px;
+	}
+	.language .inner-language h4{
+		text-align: center;
+		font-size: 18px;
+	}
+	.language .inner-language p{
+		width: 100%;
+		font-size: 14px;
+	}
+	.language .inner-language .custom-link{
+		font-size: 14px;
+	}
+	.contact{
+		padding: 50px 0px;
+	}
+	.contact .title{
+		padding: 0px 0px 35px
+	}
+	.contact .title h3{
+		font-size: 25px;
+	    margin: 10px 0px;
+	}
+	.contact .inner-contact .contact-form .btn{
+		font-size: 14px;
+	    padding: 5px 35px;
+	    margin: 0px;
+	}
+	.footer{
+		text-align: center;
+	    padding: 30px 0px 15px;
+	}
+	.footer .icons{
+		text-align: center;	
+	}
+	.footer .icons ul{
+		padding: 0px;	
+	}
+	.footer .icons li a{	
+	    width: 40px;
+	}
+	.footer .icons li a i{
+		font-size: 16px;
+	}
+	.footer p{
+		font-size: 14px;
+	}
+}
+
+@media (min-width: 768px) and (max-width: 1024px){
+	.header .navbar-nav .nav-item .nav-link{
+		margin: 0px;
+		font-size: 16px;
+    	padding: 8px 0px 0px;
+	}
+	.slider h1{
+		font-size: 55px;
+   		margin: 21% 0% 0%;
+	}
+	.slider .slider-arrow{
+		margin: 65px 0px 50px
+	}
+	.about{
+		padding: 60px 0px;
+	}
+	.about .title h3{
+	    font-size: 30px;
+	    margin: 10px 0px;
+	}
+	.about .about-text{
+		padding: 10px 0px;
+		width: 100%;
+	}
+	.about .about-text p{
+	    font-size: 16px;
+	}
+	.about .about-img img{
+		width: 100%;
+	}
+	.feature{
+		padding: 60px 0px;
+	}
+	.feature .title{
+	    padding: 0px 0px 50px;
+	}
+	.feature .title h3{
+	    font-size: 30px;
+	    margin: 10px 0px;
+	}
+	.feature .card{
+		margin: 15px 0px 0px;
+	}
+	.attorney{
+		padding: 60px 0px;
+	}
+	.attorney .title{
+		padding: 30px 0px 0px;
+	}
+	.attorney .title h3{
+	    font-size: 30px;
+	    margin: 10px 0px;
+	}
+	.attorney p{
+		font-size: 16px;
+		margin: 15px 0px 25px;
+	}
+	.attorney .custom-link{
+		font-size: 16px;
+	}
+	.attorney .card{
+		margin: 20px 0px 0px;
+	}
+	.language{
+		padding: 60px 0px;
+	}
+	.language .title{
+		padding: 0px 0px 50px
+	}
+	.language .title h3{
+		font-size: 30px;
+	    margin: 10px 0px;
+	}
+	.language .inner-language h4{
+		text-align: center;
+		font-size: 24px;
+	}
+	.language .inner-language p{
+		width: 100%;
+		font-size: 14px;
+	}
+	.language .inner-language .custom-link{
+		font-size: 14px;
+	}
+	.contact{
+		padding: 60px 0px;
+	}
+	.contact .title{
+		padding: 0px 0px 50px
+	}
+	.contact .title h3{
+		font-size: 30px;
+	    margin: 10px 0px;
+	}
+	.contact .inner-contact .contact-form .btn{
+		font-size: 16px;
+	    padding: 5px 45px;
+	    margin: 0px;
+	}
+	.footer{
+		text-align: center;
+	}
+	.footer .icons{
+		text-align: center;	
+	}
+	.footer .icons ul{
+		padding: 0px;	
+	}
+}
